@@ -1,0 +1,14 @@
+[
+  {
+    "email": "Production payment API is failing. Need immediate investigation from backend team.",
+    "expected_priority": "high"
+  },
+  {
+    "email": "Sharing weekly newsletter updates and company announcements.",
+    "expected_priority": "low"
+  },
+  {
+    "email": "Please review the design proposal by tomorrow.",
+    "expected_priority": "medium"
+  }
+]
