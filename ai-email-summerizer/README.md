@@ -1,7 +1,7 @@
 AI Email Summarizer
 
 Live Demo:
-[<Streamlit URL>](https://ai-tools-cssz8kir7kwmc6le7domwz.streamlit.app)
+[<Streamlit URL>/demo](https://ai-tools-cssz8kir7kwmc6le7domwz.streamlit.app)
 
 API:
 [<Render URL>/docs](https://ai-email-summarizer-api.onrender.com/docs)
